@@ -21,7 +21,7 @@
  
 <summary>MIS PROYECTOS</summary>
 
-Proyecto Intro Interactivo [GitHub Codigo]().
+Proyecto Intro Interactivo [GitHub Codigo](https://www.youtube.com/channel/UCBLCxWW346jx5pTuKIaiuRg?sub_confirmation=1).
 
 </details>
 
