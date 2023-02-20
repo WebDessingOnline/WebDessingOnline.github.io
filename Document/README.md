@@ -10,12 +10,12 @@
 * Siempre me sera de ayuda si quereis aportar algo, o simplemente restificar, estaria muy agradecido, sin mas un cordil saludo y Abrazo. :+1:
 
 ***_ Datos _***
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :star2:
+- [x] Extebciones
+- [x] Canal Youtube:(https://www.youtube.com/channel/UCBLCxWW346jx5pTuKIaiuRg?sub_confirmation=1).
+- [x] Web Personaal:(https://empresalimpiezasmenorcagrupopons.blogspot.com/).
 
 
-
+https://empresalimpiezasmenorcagrupopons.blogspot.com/
 
 <details>
  
