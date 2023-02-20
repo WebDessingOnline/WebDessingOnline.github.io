@@ -2,7 +2,7 @@
 <details>
 <summary>MIS PROYECTOS</summary>
 
-Proyecto Intro Interactiva [GitHub Pagina](https://pages.github.com/).
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 </details>
 
