@@ -2,14 +2,17 @@
 <details>
 <summary>MIS PROYECTOS</summary>
 
-This site was built using [GitHub Pages](https://WebDessingOnline.github.io/blob/main/intro.html).
+Proyecto Intro Interactivo [GitHub Codigo](https://github.com/WebDessingOnline/WebDessingOnline.github.io/blob/main/intro.html).
 
 </details>
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+* Herramientas que Utilizo para Diseño / Programacion.
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+| Rank | Lenguajes         |  Imagen & Audio          |   Diseños / Desarrollos  | 
+|-----:|-------------------|--------------------------|--------------------------| 
+|     1| Visual Studio Code|  Adobe After Effects CS6 |  Html , Html5            | 
+|     2| JavaScript        |  Photoshop Cs6           |  CSS                     | 
+|     3| SQL               |  VideoPad                |  Script                  | 
+|     4| Python            |                          |                          |                      
+
+
