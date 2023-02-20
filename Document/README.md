@@ -2,7 +2,7 @@
 <details>
 <summary>MIS PROYECTOS</summary>
 
-This site was built using [GitHub Pages]([WebDessingOnline.github.io/intro.html](https://github.com/WebDessingOnline/WebDessingOnline.github.io/blob/main/intro.html)).
+This site was built using [GitHub Pages](https://github.com/WebDessingOnline/WebDessingOnline.github.io/blob/main/intro.html).
 
 </details>
 
